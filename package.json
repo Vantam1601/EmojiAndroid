@@ -23,6 +23,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
+  "private": false,
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
