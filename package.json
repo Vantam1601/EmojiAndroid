@@ -1,17 +1,28 @@
 
 {
   "name": "react-native-emoji-android",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "android",
+    "emoji",
+    "appTextComppat"
   ],
-  "author": "",
-  "license": "",
+  "repository": "https://github.com/Vantam1601/EmojiAndroid.git/EmojiAndroid",
+  "author": "tam16011998@gmail.com <39816672+Vantam1601@users.noreply.github.com> (https://github.com/Vantam1601/EmojiAndroid.git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vantam1601/EmojiAndroid.git/EmojiAndroid/issues"
+  },
+  "homepage": "https://github.com/Vantam1601/EmojiAndroid.git/EmojiAndroid#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
